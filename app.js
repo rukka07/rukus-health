@@ -22,7 +22,7 @@ const REDIRECT_URI = "https://rukka07.github.io/rukus-health/callback.html";
 const SCOPES = "openid fhirUser launch/patient patient/Patient.read patient/Observation.read";
 
 // client_id for rukka07's app — update after registering on open.epic.com
-let CLIENT_ID = "fe110099-3a1f-4f45-ab9c-3231db89982c";
+let CLIENT_ID = "237c27a3-b5de-4050-9546-742366268743";
 
 
 // --- PKCE helpers (RFC 7636) ---
